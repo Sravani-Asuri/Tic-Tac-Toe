@@ -1,0 +1,48 @@
+<style>
+h1.g{
+text-color:	red;
+}
+h1 {
+color: orangered;
+font-size: 45px;
+}
+#b1, #b2, #b3, #b4, #b5,#b6, #b7, #b8, #b9 {
+		width: 80px;
+		height: 52px;
+		margin: auto;
+		border: 1px solid gray;
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+                                  background-color:	blanchedalmond;
+}
+#but {
+                                 box-sizing: border-box;
+		width: 95px;
+		height: 40px;
+		border: 1px solid gray;
+		margin: auto;
+		border-radius: 4px;
+		font-family: Verdana,Geneva, Tahoma, sans-serif;
+                                  background-color: gray;
+		color: white;
+		font-size: 20px;
+		cursor: pointer;
+	}
+#print {
+	font-family: Verdana,Geneva, Tahoma, sans-serif;
+                 color: dogerblue;
+	font-size: 20px;
+}
+#main {text-align: center;}
+#ins {
+font-family: Verdana,Geneva, Tahoma, sans-serif;
+color: teal;
+font-size: 17px;
+}
+#w{
+font-family: Geneva, Tahoma, sans-serif;
+color: chocolate;
+font-size: 17px;
+}
+</style>
